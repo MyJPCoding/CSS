@@ -1,0 +1,163 @@
+
+.heading{
+    background-color: rgb(223, 217, 217);
+}
+
+h2{
+    font-size: 18px;
+    
+}
+
+h1 {
+
+    width: 550px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.division1{
+
+    background-color: rgb(223, 217, 217);
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+html{
+
+    width: 900px;
+}
+
+
+#wrapper{
+
+    background: radial-gradient( rgb(204, 166, 204), rgb(0, 0, 0));
+    width: 900px;
+}
+
+p {
+    margin: 5px;
+    padding: 5px;
+    background-color: silver;
+}
+
+.mypicture {
+    border: 5px solid silver;
+    margin-left: 20px;
+    /* width: 340px; */
+    width: 50%;
+    height: 255px;
+}
+
+.aboutmebox {
+    /* width: 480px; */
+    width: 50%;
+    height: 100%;
+    background-color: silver;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.aboutmebox a{
+    margin-left:5px;
+    margin-top:10px;
+    margin-bottom: 0px;;
+}
+.secondlayer{
+    display: flex;
+    /* height: 240px; */
+    height:100%;
+    width: 100%;
+    justify-content: space-between;    
+}
+
+.boxHeading{
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    background-color: grey;
+    height: 20px;
+}
+
+a {
+    color:black;
+}
+
+.custom-layer{
+    display: flex;
+}
+
+.thirdlayer {
+    /* display: inline-flex; */
+    /* flex-direction: column; */
+    /* width: 240px; */
+    width: 33.33%;
+    padding: 0px;
+    margin-left: 20px; /*40px*/
+    margin-top: 20px;
+    margin-right: 20px;
+    
+    background-color: silver;
+}
+
+.technologyOptions {
+    background-color: silver;
+    width: 240px;
+    height: 100px;
+}
+
+.codeimage {
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+}
+
+.headimage {
+    width: 100%;
+    height: 20%;
+}
+
+
+
+.lamode {
+    height: 172px;
+}
+
+button {
+    background-color: rgb(35, 105, 65);
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    margin:5px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+
+footer {
+    margin-top:20px;
+    width: 100%;
+    background-color: rgb(224, 222, 222);
+    padding: 0px 0px 10 px 0px;
+    text-align: center;
+}
+
+
+footer p {
+    background-color:  rgb(224, 222, 222);
+    text-align: center;
+}
+
+footer a {
+    background-color:  rgb(224, 222, 222);
+}
+
+footer img{
+    height:20px;
+    width: 20x;
+}
+
